@@ -1,0 +1,83 @@
+.my_edu{
+  background-color: azure;
+  height: 850px;
+}
+.h1{
+  text-align: center;
+  position: relative;
+  top: 30px;
+  color: black;
+  height: fit-content;
+ 
+}
+h6{
+  text-align: center;
+  position: relative;
+  top: 30px;
+}
+
+.grad{
+  width: 1000px;
+  height: 200px;
+  background-color: aliceblue;
+  position: relative;
+  top: 70px;
+  left: 250px;
+  border-radius: 10px;
+  text-align: start;
+  box-shadow: 3px 3px 8px 3px;
+}
+
+.h2 {
+  position: relative;
+  left: 60px;
+  top: 20px;
+  color: darkblue;
+  width: fit-content;
+}
+.p {
+  position: relative;
+  left: 60px;
+  top: 20px;
+  font-weight: 600;
+  
+}
+.h3 {
+  position: relative;
+  left: 60px;
+  top: 20px;
+  color: blueviolet;
+}
+.schooling{
+  width: 1000px;
+  height: 200px;
+  background-color: aliceblue;
+  position: relative;
+  top: 70px;
+  left: 250px;
+  border-radius: 10px;
+  text-align: start;
+  box-shadow: 3px 3px 8px 3px;
+}
+.Inter{
+  width: 1000px;
+  height: 180px;
+  background-color: aliceblue;
+  position: relative;
+  top: 100px;
+  left: 250px;
+  border-radius: 10px;
+  text-align: start;
+  box-shadow: 3px 3px 8px 3px;
+}
+.schooling{
+  width: 1000px;
+  height: 180px;
+  background-color: aliceblue;
+  position: relative;
+  top: 130px;
+  left: 250px;
+  border-radius: 10px;
+  text-align: start;
+  box-shadow: 3px 3px 8px 3px;
+}

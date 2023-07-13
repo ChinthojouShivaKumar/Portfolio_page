@@ -1,0 +1,51 @@
+.h1{
+  text-align: center;
+  position: relative;
+  top: 30px;
+  color: black;
+  height: fit-content;
+ 
+}
+
+.img2 {
+  position: relative;
+  width: 300px;
+  height: 400px;
+  border-radius: 10px;
+  filter: grayscale(100%);
+}
+.img2:hover{
+  filter: brightness(100%);
+  transform: scale(1.05);
+}
+.img_part_abt{
+  position: relative;
+  display: inline-block;
+  width: 500px;
+  height: 500px;
+}
+.text_part_abt{
+  position: relative;
+  display: inline-block;
+  width: 500px;
+  height: 500px;
+  top: 100px;
+}
+.abt_inf{
+  position: relative;
+  left: 250px;
+  width: fit-content;
+ 
+}
+.clr{
+  background-color: whitesmoke;
+ 
+}
+
+.btn1{
+  width: 140px;
+  height: 40px;
+  position: relative;
+  font-size: medium;
+  font-weight: 600;
+}

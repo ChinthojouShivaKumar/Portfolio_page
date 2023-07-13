@@ -1,0 +1,28 @@
+.contact{
+  position: relative;
+  top: 30px;
+  background-color:lavender;
+  height: 600px;
+}
+.cont_img{
+  display: inline-block;
+  position: relative;
+  top:100px;
+  left: 200px;
+  border-radius: 10px;
+}
+.cont_text{
+  width: 500px;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  left: 800px;
+  bottom: 15px;
+  bottom: 200px;
+}
+input{
+  margin-bottom: 10px;
+  line-height: 40px;
+  border-radius: 10px;
+  border: 2px solid grey;
+}

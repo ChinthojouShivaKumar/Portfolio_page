@@ -1,0 +1,48 @@
+.footer{
+  position: relative;
+  top: 20px;
+  background-color: black;
+  height: 390px;
+  color: white;
+}
+.profile{
+  width: 400px;
+  height: 300px;
+  display: inline-block;
+  
+}
+.h21{
+  position: relative;
+  top: 70px;
+  left: 200px;
+}
+.pv{
+  position: relative;
+  top: 100px;
+  left: 200px;
+}
+.ico{
+  display: inline-block;
+  position: relative;
+  left: 500px;
+}
+.link{
+  font-size: xx-large;
+  margin: 0px 10px;
+  position: relative;
+  left: 100px;
+  top: 60px;
+}
+.h2s{
+  position: relative;
+  top: 60px;
+  left: 100px;
+}
+.pss{
+  position: relative;
+  left: 40%;
+  width: fit-content;
+}
+.strong{
+  color: yellow;
+}
